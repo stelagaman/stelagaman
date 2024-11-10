@@ -42,7 +42,8 @@
  </p> 
 
 ### Сертификаты: ###
--[HTML&CSS](https://disk.yandex.ru/d/JrIQByfZ-r3dnA)
+-[HTML&CSS Создание сайтов на HTML5 и CSS3](https://disk.yandex.ru/d/JrIQByfZ-r3dnA)
+
 -[Тестирование ПО с нуля. Теория + Практика](https://disk.yandex.ru/client/disk/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Stepik) 
 
 </div>
