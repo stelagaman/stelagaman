@@ -1,5 +1,7 @@
 # Привет 👋 Я - Стелла и я - тестировщик.
-Моя цель- сделать мир лучше!  
+-Моя цель- сделать мир лучше а имено внести свой вклад в обеспечение качества продукта🚀! 
+- 👩‍🎓 Успешно прошла курс "Инженер по тестированию" от  [Яндекс Практикума](https://practicum.yandex.ru)
+- - 📄 Мое резюме [ссылка] 
 Связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/stelagaman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stela-gaman-b876aa327/)
 [![Gmail Badge](https://img.shields.io/badge/-stelagaman08-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stelagaman08@gmail.com)](mailto:stelagaman08@gmail.com)
 ![Telegram](https://img.shields.io/badge/stelagaman-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
