@@ -44,6 +44,6 @@
 ### Сертификаты: ###
 -[HTML&CSS Создание сайтов на HTML5 и CSS3](https://disk.yandex.ru/d/JrIQByfZ-r3dnA)
 
--[Тестирование ПО с нуля. Теория + Практика](https://disk.yandex.ru/client/disk/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Stepik) 
+-[Тестирование ПО с нуля. Теория + Практика]([https://disk.yandex.ru/client/disk/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Stepik](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Stepik%2Fstepik-certificate-171826-61bd405%20(1).pdf&name=stepik-certificate-171826-61bd405%20(1).pdf&uid=419918459&nosw=1)
 
 </div>
