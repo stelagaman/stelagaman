@@ -42,6 +42,6 @@
  </p> 
 
 ### Сертификаты: ###
-#4420-[HTML&CSS](https://disk.yandex.ru/d/JrIQByfZ-r3dnA)
+-[HTML&CSS](https://disk.yandex.ru/d/JrIQByfZ-r3dnA)
 
 </div>
