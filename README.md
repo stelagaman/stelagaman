@@ -6,8 +6,7 @@
 Связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/stelagaman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stela-gaman-b876aa327/)
 [![Gmail Badge](https://img.shields.io/badge/-stelagaman08-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stelagaman08@gmail.com)](mailto:stelagaman08@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@stelagaman-white?style=flat&logo=telegram&logoColor=blue)](https://t.me/stelagaman)
-
-<h3>Soft skils</h3>
+# Soft skils
 * Внимание к деталям
 * Умение работать в команде
 
