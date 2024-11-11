@@ -6,7 +6,7 @@
 Связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/stelagaman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stela-gaman-b876aa327/)
 [![Gmail Badge](https://img.shields.io/badge/-stelagaman08-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:stelagaman08@gmail.com)](mailto:stelagaman08@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@stelagaman-white?style=flat&logo=telegram&logoColor=blue)](https://t.me/stelagaman)
-<div>
+
 <h3>Soft skils</h3>
 * Внимание к деталям
 * Умение работать в команде
@@ -85,4 +85,3 @@
 
 -[Тестирование ПО с нуля. Теория + Практика](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2F%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Stepik%2Fstepik-certificate-171826-61bd405%20(1).pdf&name=stepik-certificate-171826-61bd405%20(1).pdf&uid=419918459)
 
-</div>
