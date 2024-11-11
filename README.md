@@ -8,8 +8,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-@stelagaman-white?style=flat&logo=telegram&logoColor=blue)](https://t.me/stelagaman)
 <div>
 <h3>Soft skils</h3>
-*Внимание к деталям
-*Умение работать в команде
+* Внимание к деталям
+* Умение работать в команде
 
 -Аналитические способности 
 
